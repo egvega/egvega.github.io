@@ -1,4 +1,4 @@
-﻿# Installation Recipes
+# Installation Recipes
 ## Method-1: Installing GROMACS on Ubuntu with CUDA GPU Support
 ### Getting Started
 
